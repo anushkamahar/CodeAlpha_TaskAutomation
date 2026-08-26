@@ -1,6 +1,6 @@
-# CodeAlpha_TaskAutomation
+# Task-Automation
 
-This is a simple Python script that moves JPG files from one folder to another. I created this project as part of my CodeAlpha Python Programming Internship.
+This is a simple Python script that moves JPG files from one folder to another.
 
 ## About the Project
 
@@ -36,10 +36,6 @@ After running the script, the JPG files will be moved to the `photos/jpg_files` 
 * `TaskAutomation.py` - Main Python file for the automation.
 * `photos` - Folder containing sample JPG files.
 * `README.md` - Information about the project.
-
-## CodeAlpha Internship
-
-This project was completed as **Task 3 - Task Automation with Python Scripts** for the CodeAlpha Python Programming Internship.
 
 ## Author
 
